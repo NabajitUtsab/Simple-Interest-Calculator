@@ -38,9 +38,8 @@ This project demonstrates:
 
 If input is in months (e.g. `24m`), it is converted to years using:
 
-\[
-\text{Time (years)} = \frac{\text{months}}{12}
-\]
+Time (years) = {months}/{12}
+
 
 ---
 
@@ -64,13 +63,13 @@ Your interest is : 833.3333333333334 taka
 
 2. Navigate to the project folder:
 
-cd simple-interest-calculator
+   cd simple-interest-calculator
 
 3. Compile the Java file:
 
-javac Main.java
+  javac Main.java
 
 
 4. Run the program:
 
-java Main
+  java Main
